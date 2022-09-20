@@ -10,7 +10,7 @@
 [![image](https://img.shields.io/badge/stackoveflow-D14836?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13301010/mohammad-gholamzade)
 </div>
 
-✨ I'm a Electrical Engineering student at the [Iran University of Science & Technology](http://www.iust.ac.ir/en) who loves coding , creative things and learning.
+✨ I'm an Electrical Engineering student at the [Iran University of Science & Technology](http://www.iust.ac.ir/en) who loves coding , creative things and learning.
 I exprienced at Computing Olympiad and Competitive Programming also trying to be a Full-Stack developer.
 
 - 🔭 I’m currently working on Nothing.
