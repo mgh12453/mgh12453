@@ -16,5 +16,4 @@ I exprienced at Computing Olympiad and Competitive Programming also trying to be
 - 🔭 I’m currently working on Nothing.
 - 🌱 I’m currently learning Everything. 
 - 💬 Ask me about Everything you want.
-- 📫 How to reach me: You can't :(
-- ⚡ Fun fact: If realy wanna to talk, lets go [mgh12453@gmail.com](mailto:mgh12453gmail.com) 
+- 📫 How to reach me:  [mgh12453@gmail.com](mailto:mgh12453gmail.com) 
